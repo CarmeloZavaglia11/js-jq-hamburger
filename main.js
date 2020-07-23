@@ -1,5 +1,5 @@
-var hamb = $('.header-right>a>.fa-bars');
-var cross = $('.hamburger-menu>a>.fa-times');
+var hamb = $('.header-right>a>i');
+var cross = $('.hamburger-menu>a>i');
 var hambMenu = $('.hamburger-menu');
 
 hamb.click(function(){
